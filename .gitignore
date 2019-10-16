@@ -63,3 +63,11 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
+#Laravel
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
